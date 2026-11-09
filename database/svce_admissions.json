@@ -1,0 +1,156 @@
+{
+  "metadata": {
+    "institute": "Shree Vishwakarma Computer Education & Tuition Classes, Kalavad",
+    "educator": "Deepak Sir Vadgama",
+    "repository": "https://github.com/deepakvadgama77/svce-kld",
+    "branch": "main",
+    "filePath": "database/svce_admissions.json",
+    "lastUpdated": "2026-11-09T11:53:37.930Z"
+  },
+  "students_admissions": [
+    {
+      "student_id": "SVCE-2026-101",
+      "admission_date": "2026-06-10",
+      "full_name_en": "Patel Aarav Rameshbhai",
+      "full_name_gu": "પટેલ આરવ રમેશભાઈ",
+      "gender": "Male / કુમાર",
+      "dob": "2009-05-14",
+      "mobile_no": "9876543210",
+      "parent_mobile": "9427510716",
+      "address": "Panjetan Nagar, Cinema Road",
+      "city_village": "Kalavad (કાલાવડ)",
+      "status": "Active"
+    },
+    {
+      "student_id": "SVCE-2026-102",
+      "admission_date": "2026-06-12",
+      "full_name_en": "Jadeja Nandini Vijaysinh",
+      "full_name_gu": "જાડેજા નંદિની વિજયસિંહ",
+      "gender": "Female / કન્યા",
+      "dob": "2008-11-22",
+      "mobile_no": "9427510716",
+      "parent_mobile": "9265086034",
+      "address": "Sharad Garabi Chowk, Cinema Road",
+      "city_village": "Kalavad (કાલાવડ)",
+      "status": "Active"
+    },
+    {
+      "student_id": "SVCE-2026-103",
+      "admission_date": "2026-06-15",
+      "full_name_en": "Parmar Meetesh Kishorbhai",
+      "full_name_gu": "પરમાર મીતેશ કિશોરભાઈ",
+      "gender": "Male / કુમાર",
+      "dob": "2005-08-03",
+      "mobile_no": "9265086034",
+      "parent_mobile": "9265086034",
+      "address": "Station Road, Near Bus Stand",
+      "city_village": "Kalavad (કાલાવડ)",
+      "status": "Active"
+    },
+    {
+      "student_id": "SVCE-2026-104",
+      "admission_date": "2026-06-18",
+      "full_name_en": "Faldu Krisha Mansukhbhai",
+      "full_name_gu": "ફળદુ ક્રિશા મનસુખભાઈ",
+      "gender": "Female / કન્યા",
+      "dob": "2010-02-19",
+      "mobile_no": "9909911223",
+      "parent_mobile": "9909911223",
+      "address": "Kumbhnath Para, Main Bazar",
+      "city_village": "Kalavad (કાલાવડ)",
+      "status": "Active"
+    }
+  ],
+  "course_enrollments": [
+    {
+      "enrollment_id": "ENR-501",
+      "student_id": "SVCE-2026-101",
+      "category": "Tuition Class / શૈક્ષણિક ટ્યુશન",
+      "course_name": "Std 9 & 10 Mathematics (Basic/Std) & Computer Studies (ધોરણ ૯ અને ૧૦ ગણિત અને કોમ્પ્યૂટર)",
+      "batch_timing": "Afternoon (3:30 PM - 5:30 PM) / બપોરે ૩:૩૦ થી ૫:૩૦",
+      "medium": "Gujarati Medium / ગુજરાતી માધ્યમ",
+      "total_fee": 6500,
+      "paid_fee": 3500,
+      "due_fee": 3000,
+      "payment_mode": "Cash / રોકડ"
+    },
+    {
+      "enrollment_id": "ENR-502",
+      "student_id": "SVCE-2026-102",
+      "category": "Tuition Class / શૈક્ષણિક ટ્યુશન",
+      "course_name": "Std 11 & 12 Computer Studies & Statistics Coaching (ધોરણ ૧૧ અને ૧૨ કોમ્પ્યૂટર અધ્યયન)",
+      "batch_timing": "Morning (8:00 AM - 10:00 AM) / સવારે ૮ થી ૧૦",
+      "medium": "Gujarati & English (Bilingual) / દ્વિભાષી",
+      "total_fee": 7000,
+      "paid_fee": 7000,
+      "due_fee": 0,
+      "payment_mode": "UPI / Google Pay / PhonePe"
+    },
+    {
+      "enrollment_id": "ENR-503",
+      "student_id": "SVCE-2026-103",
+      "category": "Computer Course / કોમ્પ્યૂટર કોર્ષ",
+      "course_name": "Accounting with Tally Prime & GST (ટેલી પ્રાઈમ અને GST એકાઉન્ટિંગ)",
+      "batch_timing": "Evening (5:30 PM - 7:30 PM) / સાંજે ૫:૩૦ થી ૭:૩૦",
+      "medium": "Gujarati & English (Bilingual) / દ્વિભાષી",
+      "total_fee": 4500,
+      "paid_fee": 4500,
+      "due_fee": 0,
+      "payment_mode": "UPI / Google Pay / PhonePe"
+    },
+    {
+      "enrollment_id": "ENR-504",
+      "student_id": "SVCE-2026-104",
+      "category": "Computer Course / કોમ્પ્યૂટર કોર્ષ",
+      "course_name": "CCC (Course on Computer Concepts) (CCC કોર્ષ ઓન કોમ્પ્યૂટર કન્સેપ્ટ્સ)",
+      "batch_timing": "Morning (10:00 AM - 12:00 PM) / સવારે ૧૦ થી ૧૨",
+      "medium": "Gujarati & English (Bilingual) / દ્વિભાષી",
+      "total_fee": 3500,
+      "paid_fee": 2000,
+      "due_fee": 1500,
+      "payment_mode": "Cash / રોકડ"
+    }
+  ],
+  "academic_records": [
+    {
+      "record_id": "ACD-901",
+      "student_id": "SVCE-2026-101",
+      "standard_qualification": "Std 10th (SSC)",
+      "school_college_name": "Kalavad High School, Kalavad",
+      "board_university": "GSEB (Gandhinagar) / ગુજરાત બોર્ડ",
+      "last_exam_percentage": "84.20%",
+      "attendance_pct": "96%",
+      "remarks": "Std 10 Maths Formula Book + Computer MCQ Bank Issued"
+    },
+    {
+      "record_id": "ACD-902",
+      "student_id": "SVCE-2026-102",
+      "standard_qualification": "Std 12th Commerce",
+      "school_college_name": "Saraswati Higher Secondary School, Kalavad",
+      "board_university": "GSEB (Gandhinagar) / ગુજરાત બોર્ડ",
+      "last_exam_percentage": "88.60%",
+      "attendance_pct": "98%",
+      "remarks": "Std 12 Java & HTML Practical Handbook + OMR Set Issued"
+    },
+    {
+      "record_id": "ACD-903",
+      "student_id": "SVCE-2026-103",
+      "standard_qualification": "B.Com Sem-4",
+      "school_college_name": "Commerce College, Jamnagar",
+      "board_university": "Saurashtra University / સૌરાષ્ટ્ર યુનિવર્સિટી",
+      "last_exam_percentage": "76.40%",
+      "attendance_pct": "94%",
+      "remarks": "Tally Prime Shortcut Keys & GST Voucher Workbook Issued"
+    },
+    {
+      "record_id": "ACD-904",
+      "student_id": "SVCE-2026-104",
+      "standard_qualification": "Std 11th Arts/Com",
+      "school_college_name": "Model School, Kalavad",
+      "board_university": "GSEB (Gandhinagar) / ગુજરાત બોર્ડ",
+      "last_exam_percentage": "81.00%",
+      "attendance_pct": "95%",
+      "remarks": "CCC Gujarati Notes & MS Office Practical Guide Issued"
+    }
+  ]
+}
